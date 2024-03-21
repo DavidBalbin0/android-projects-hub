@@ -4,3 +4,6 @@
 [submodule "android-compose-fundamentals"]
 	path = android-compose-fundamentals
 	url = https://github.com/DavidBalbin0/android-compose-fundamentals
+[submodule "android-navigation"]
+	path = android-navigation
+	url = https://github.com/DavidBalbin0/android-navigation
