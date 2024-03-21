@@ -1,0 +1,3 @@
+[submodule "android-layouts"]
+	path = android-layouts
+	url = https://github.com/DavidBalbin0/android-layouts
