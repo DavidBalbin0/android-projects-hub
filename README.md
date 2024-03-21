@@ -1,18 +1,23 @@
 # Android Projects Hub
 
-## Introdução
-Minha trajetória no desenvolvimento Android teve início durante meus estudos na faculdade, partindo do zero e com apenas um conhecimento básico de Kotlin. 
-Decidi criar uma série de projetos para acompanhar e documentar minha evolução nesse processo.
 
-Este repositório centraliza esses projetos, oferecendo um panorama completo da minha jornada de aprendizado e progresso  no desenvolvimento de aplicativos Android.
+## Introduction
+My journey into Android development began during my college studies, starting from scratch with only a basic knowledge of Kotlin. 
+I decided to create a series of projects to track and document my progress in this process.
 
+This repository centralizes these projects, providing a comprehensive overview of my learning journey and progress in Android app development.
 
-## Projetos
+## Projects
 
 ### [Layouts:](https://github.com/DavidBalbin0/android-layouts)
 
-Este projeto representa meu primeiro contato com o desenvolvimento Android durante minhas aulas na faculdade. 
-Foi uma oportunidade para explorar e compreender os componentes básicos de interface do usuário, como Column e Row, enquanto adquiria familiaridade com o ambiente de desenvolvimento Android. 
-Ao longo do projeto, concentrei-me em entender a disposição e organização dos elementos na tela, experimentando diferentes layouts e técnicas de design. 
-Esta experiência serviu como uma base sólida para projetos futuros, proporcionando uma compreensão fundamental do desenvolvimento de interfaces de usuário no Android.
+This project represents my first encounter with Android development during my college classes. 
+It was an opportunity to explore and understand basic user interface components, such as Column and Row,
+while gaining familiarity with the Android development environment. Throughout the project, 
+I focused on understanding the layout and organization of elements on the screen, experimenting with different layouts and design techniques. This experience laid a solid foundation for future projects, providing a fundamental understanding of user interface development in Android.
+
+
+
+
+
 
