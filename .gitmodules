@@ -1,3 +1,6 @@
 [submodule "android-layouts"]
 	path = android-layouts
 	url = https://github.com/DavidBalbin0/android-layouts
+[submodule "android-compose-fundamentals"]
+	path = android-compose-fundamentals
+	url = https://github.com/DavidBalbin0/android-compose-fundamentals
