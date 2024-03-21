@@ -16,6 +16,11 @@ It was an opportunity to explore and understand basic user interface components,
 while gaining familiarity with the Android development environment. Throughout the project, 
 I focused on understanding the layout and organization of elements on the screen, experimenting with different layouts and design techniques. This experience laid a solid foundation for future projects, providing a fundamental understanding of user interface development in Android.
 
+### [Compose Fundamentals:](https://github.com/DavidBalbin0/android-compose-fundamentals)
+
+Neste projeto, explorei os componentes fundamentais da interface do usuário do Jetpack Compose, com foco na compreensão dos conceitos essenciais para criar 
+interfaces dinâmicas e escaláveis. Ao utilizar diversos componentes, como OutlinedTextField, Checkbox e RadioButton, aprofundei-me em suas 
+funcionalidades e aplicabilidades na construção de interfaces de usuário interativas. Além disso, realizei personalização de ícones e manipulação de entrada do usuário. 
 
 
 
